@@ -1,0 +1,33 @@
+.tree{
+    width:500px;
+}
+.mhw{
+    width:500px;
+}
+.steam{
+    width:500px;
+}
+.notmessi{
+    width:500px;
+}
+body{
+    background-image: radial-gradient(blue,black,white);
+    color:white;
+    background-repeat:no-repeat;
+}
+.trext{
+    font-family: 'Nunito', sans-serif;
+    font-size:30px;
+}
+.noice{
+    font-family: 'Shadows Into Light', cursive;
+    font-size:30px;
+}
+.yeo{
+    font-family: 'Lato', sans-serif;
+    font-size:30px;
+}
+.steamsales{
+    font-family: 'Montserrat', sans-serif;
+    font-size:30px;
+}
